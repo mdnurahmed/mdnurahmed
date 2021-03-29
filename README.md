@@ -30,5 +30,5 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Simple Data Visualization Using Matplotlib](https://nurahmedsabbir.medium.com/simple-data-visualization-using-matplotlib-d0eac7c6623a)
-- A peculiar crawler — Concurrency using Golang](https://nurahmedsabbir.medium.com/a-peculiar-crawler-concurrency-using-golang-7b9d6c4a293c)
+-[A peculiar crawler — Concurrency using Golang](https://nurahmedsabbir.medium.com/a-peculiar-crawler-concurrency-using-golang-7b9d6c4a293c)
 <!-- BLOG-POST-LIST:END -->

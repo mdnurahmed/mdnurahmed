@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a serverless web app . 
 - 🌱 I’m currently learning Kubernetes 
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 - 📫 How to reach me: nurahmedsabbir@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play chess . 

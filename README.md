@@ -1,9 +1,9 @@
 ### Hi there, I'm Nur - aka mdnurahmed . A passionate self-taught software developer from Bangladesh.
 
 
-- 🔭 I’m currently working on a serverless web app . 
-- 🌱 I’m currently learning Kubernetes 
-- 🥅 2022 Goals: Contribute to Open Source projects
+- 🔭 I’m currently working on a serverless web app using Cloud Run and Firestore.
+- 🌱 I’m currently learning data pipelines
+- 🥅 2023 Goals: Contribute to Open Source projects
 - 📫 How to reach me: nurahmedsabbir@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play chess . 
